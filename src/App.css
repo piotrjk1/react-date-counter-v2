@@ -1,0 +1,13 @@
+.counter {
+  display: grid;
+  justify-content: center;
+  place-items: center;
+}
+
+button {
+  margin: 5px;
+}
+/* input[type="number"]::-webkit-inner-spin-button,
+input[type="number"]::-webkit-outer-spin-button {
+  display: none;
+} */
